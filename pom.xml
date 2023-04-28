@@ -7,8 +7,12 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>jackson-json-java</name>
+  <name>jackson-json-Dexcomjava</name>
   <url>http://maven.apache.org</url>
+  ebElement txtPassword = new WebDriverWait(driver, Duration.ofSeconds(10))
+                .until(ExpectedConditions.visibilityOfElementLocated(By.xpath(
+                        "//input[@id='password']")));
+        txtPassword.sendKeys("fyene2ssQP$")
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
