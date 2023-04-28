@@ -16,7 +16,8 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.hmkcode.vo.Article;
-
+        String Username = "Dexcom2";
+        String Password = "Dexcom123456";
 
 public class App 
 {
