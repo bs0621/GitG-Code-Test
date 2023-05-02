@@ -6,8 +6,9 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+// This is dummy credential
         String Username = "Dexcom2";
-        String Password = "Dexcom123456";
+        String Password = "Dexcomxct1";
 
 import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.core.type.TypeReference;
